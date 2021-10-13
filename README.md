@@ -1,5 +1,5 @@
 # Mini Figma
-A small app around this which quickly selects you between fonts.  
+A small app which quickly selects you between fonts.  
 - Have prefixed sizes. Multiples of 8px. 
 - Have some selected best fonts. 
 - Tell which fonts are good for heading which are good for text. 
